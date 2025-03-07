@@ -1,1 +1,1 @@
-# chromadb-examples
+# milvus-examples

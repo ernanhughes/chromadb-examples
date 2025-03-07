@@ -1,0 +1,6 @@
+ipykernel
+chromadb
+ollama
+tqdm
+numpy<2
+
